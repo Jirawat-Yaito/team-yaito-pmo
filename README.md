@@ -23,7 +23,7 @@ At **FinX Group**, a four-company financial-services organization serving **4,00
 An orchestrator (**Yaito**) decomposes each request and delegates to **19 specialist agents** organized into five PMO functions. Agents act on live enterprise context through Cowork's tools (Outlook, Teams, SharePoint, Calendar) and route every write action through a human-in-the-loop approval dialog.
 
 ### Architecture
-\![Team Yaito Architecture](archi…re.png)
+\![Team Yaito Architecture](architecture.png)
 ```
                     ┌─────────────────────────┐
    PM (natural  →   │   Orchestrator: Yaito    │
